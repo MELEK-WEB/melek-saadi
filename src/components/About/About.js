@@ -11,6 +11,7 @@ export default function About() {
       {photo && (
        <img height="200px" alt="Avatar placeholder" src={photo} />
       )}
+      <br/>
       {name && (
         <h1>
           Hi, I am <span className='about__name'>{name}.</span>
@@ -22,7 +23,7 @@ export default function About() {
 
       <div className='about__contact center'>
         {resume && (
-          <a href={resume}>
+          <a href="https://drive.google.com/drive/folders/14mgM4j6nkbeT4-VpwUCzKU6-V8WxI188?usp=sharing">
             <span type='button' className='btn btn--outline'>
               Resume
             </span>

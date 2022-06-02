@@ -3,7 +3,7 @@ import './Footer.css'
 const Footer = () => (
   <footer className='footer'>
     <a
-      href='https://github.com/Morganbb104/HW_20_Portfolio_withReact'
+      href='https://melek-web.github.io/melek-saadi/'
       className='link footer__link'
     >
       © Created By Melek Saadi 
