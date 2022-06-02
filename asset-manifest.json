@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/melek-saadi/static/css/main.ccdb8b91.css",
+    "main.js": "/melek-saadi/static/js/main.fd83fd88.js",
+    "static/js/787.3be1ba66.chunk.js": "/melek-saadi/static/js/787.3be1ba66.chunk.js",
+    "static/media/datenight3.png": "/melek-saadi/static/media/datenight3.d9c9e490cc8ff276b14a.png",
+    "static/media/datenight6.png": "/melek-saadi/static/media/datenight6.6099c087e926bf9ab750.png",
+    "static/media/datenight.png": "/melek-saadi/static/media/datenight.2dbba1ccd16f903dcfb1.png",
+    "static/media/datenight5.png": "/melek-saadi/static/media/datenight5.b23265b66ca9a43d2243.png",
+    "static/media/findem5.png": "/melek-saadi/static/media/findem5.76cf7450e04087d7176d.png",
+    "static/media/SaadiMelek.png": "/melek-saadi/static/media/SaadiMelek.b0ad7ef5002c7423f3fc.png",
+    "static/media/datenight4.png": "/melek-saadi/static/media/datenight4.c7e1c3ff960aee751128.png",
+    "static/media/datenight7.png": "/melek-saadi/static/media/datenight7.bce8146f50a955bf5813.png",
+    "static/media/datenight2.png": "/melek-saadi/static/media/datenight2.6bcce45c79d97751a39c.png",
+    "static/media/datenight1.png": "/melek-saadi/static/media/datenight1.2f96295ec6133a5a5977.png",
+    "static/media/findem2.png": "/melek-saadi/static/media/findem2.6ee727d4de739e906fee.png",
+    "static/media/findem4.png": "/melek-saadi/static/media/findem4.1d4d39cb6032da606a15.png",
+    "static/media/findem3.png": "/melek-saadi/static/media/findem3.44c3c615f501d014e6e8.png",
+    "static/media/findem6.png": "/melek-saadi/static/media/findem6.9ff40df44281b0a5efd2.png",
+    "static/media/findem.png": "/melek-saadi/static/media/findem.8fdef07604a0ac0f0d93.png",
+    "index.html": "/melek-saadi/index.html",
+    "main.ccdb8b91.css.map": "/melek-saadi/static/css/main.ccdb8b91.css.map",
+    "main.fd83fd88.js.map": "/melek-saadi/static/js/main.fd83fd88.js.map",
+    "787.3be1ba66.chunk.js.map": "/melek-saadi/static/js/787.3be1ba66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccdb8b91.css",
+    "static/js/main.fd83fd88.js"
+  ]
+}
