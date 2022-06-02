@@ -1,0 +1,16 @@
+.contact {
+    max-width: 450px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .contact_item{
+    
+  }
+  
+  a{
+      text-decoration: none;
+      color: inherit; 
+    
+    }
