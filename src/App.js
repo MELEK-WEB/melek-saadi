@@ -13,21 +13,14 @@ function App() {
      <div  id ='top' className='light app'>
      <Header/>
      <main>
-      <About/>
-      <Projects/>
-      <Skills/>
-      <br/>
-      <br/>
-      <Contact/>
-  
-     </main>
-       
+          <About/>
+          <Projects/>
+          <Skills/>
+          <br/>
+          <br/>
+          <Contact/>
+      </main>
       
-     
-      
-     
-    
-    
     <Footer/>
     </div>
     </>

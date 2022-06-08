@@ -6,13 +6,10 @@ import './ProjectContainer.css'
 
 function ProjectContainer ({Title,image,description,technologies})  {
 
-  //const [imageArray,setimageArray] = React.useState(image);
+  
   const [currentImage,setCurentImage] = React.useState(0);
 
-//   React.useEffect(()=>{
-//     setInterval(setrandomlyImages,5000)
 
-//   },[])
 
  const setrandomlyImages= (()=>{ 
 
@@ -26,9 +23,10 @@ function ProjectContainer ({Title,image,description,technologies})  {
   return(
     <div className='project'>
     <h3>{Title}</h3>
+    <br/>
     <img src= {image[currentImage]} alt={Title} style={{width:'100%'}} 
      onMouseOver={setrandomlyImages}/>
-
+   
     <p className='project__description'>{description}</p>
      
       <ul className='project__stack'>

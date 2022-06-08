@@ -13,7 +13,20 @@ import datenight3 from './photos/datenight3.png'
 import datenight4 from './photos/datenight4.png'
 import datenight5 from './photos/datenight5.png'
 import datenight6 from './photos/datenight6.png'
-import datenight7 from './photos/datenight7.png'
+
+import kinder from './photos/kinder.png'
+import kinder1 from './photos/kinder1.png'
+import kinder2 from './photos/kinder2.png'
+import kinder3 from './photos/kinder3.png'
+import kinder4 from './photos/kinder4.png'
+import kinder5 from './photos/kinder5.png'
+import kinder6 from './photos/kinder6.png'
+
+import palmas from './photos/palmas.png'
+import palmas1 from './photos/palmas1.png'
+import palmas2 from './photos/palmas2.png'
+import palmas4 from './photos/palmas4.png'
+
 
 
 const about ={
@@ -34,18 +47,31 @@ const header = {
 const projects =[
 {
     
-    title: 'findem',
+    title: 'Findem',
      description:
       "a web-based solution that includes the manager's functionalities in order to achieve a good resource management.However, each manager will have access to manage his projects and employees. The main point building a decision system for the projects assignment considering the potential and experience of the team members.Thus, the app ensure that all projects accepted by the application are taken care of by the employees.",
     technologies:['react','spring','mysql'],
     img  :[findem5,findem4,findem,findem2,findem3,findem6],
   },
   {
-      img  :[datenight1,datenight,datenight2,datenight3,datenight4,datenight5,datenight6,datenight7],
+      img  :[datenight1,datenight,datenight2,datenight3,datenight4,datenight5,datenight6],
       title :'Date Night',
       description :"2D game inspired by the Titanic movie, Jack and rose need to collaborate together in order to reach a date appointment. thus, they should clear the way for each other.",
       technologies:['photoshop','unity','C#']
   },
+  {
+    img  :[kinder,kinder1,kinder2,kinder3,kinder4,kinder5,kinder6],
+    title :'Collect Us',
+    description :"2D/3D advertising game for Kinder's products. The player is found lost in a maze and should escape it. to solve the maze you need to collect special eggs located at the end of levels one and two. ",
+    technologies:['photoshop','unity','C#']
+  },
+  {
+    img  :[palmas,palmas1,palmas2,palmas4],
+    title :'Palmas',
+    description :"Palmas Hotels & Resorts is a modern, upscale hospitality company that is passionate about ‘making moments’, recognising that small gestures make a big difference to our guests, our owners and our people. We do ordinary things in an extraordinary way – a philosophy that has defined our brand’s success from the very start.. ",
+    technologies:['HTML','CSS','JAVASCRIPT']
+  },
+
   
 ]
 const contact ={
@@ -59,14 +85,14 @@ const contact ={
 const skills =[
     'HTML',
     'CSS',
-   'JavaScript',
-   'MySQL',
-  'Postgres',
-  'React',
-  'Redux',
-  'Spring',
-  'Material UI',
-  'Git',
-  'Java',
+    'JavaScript',
+    'MySQL',
+   'Postgres',
+   'React',
+   'Redux',
+   'Spring',
+   'Material-UI',
+   'Git',
+   'Java','Unity',
 ]
 export { header, about, projects, skills, contact }
