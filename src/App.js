@@ -15,6 +15,8 @@ function App() {
      <main>
           <About/>
           <Projects/>
+          <br/>
+          <h5 style={{textAlign:"center"}}>Show more ...</h5>
           <Skills/>
           <br/>
           <br/>

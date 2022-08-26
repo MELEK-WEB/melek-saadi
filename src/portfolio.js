@@ -86,13 +86,13 @@ const skills =[
     'HTML',
     'CSS',
     'JavaScript',
+    'React',
+    'Redux',
+    'Material-UI',
+    'Java', 'Python',
+   'Spring','NodeJs','Flask',
+   'Express',
     'MySQL',
-   'Postgres',
-   'React',
-   'Redux',
-   'Spring',
-   'Material-UI',
-   'Git',
-   'Java','Unity',
+   'PostgresQl','Mongodb'
 ]
 export { header, about, projects, skills, contact }
