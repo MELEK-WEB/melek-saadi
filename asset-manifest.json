@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/melek-saadi/static/css/main.c8e9cae7.css",
-    "main.js": "/melek-saadi/static/js/main.f89a3c20.js",
+    "main.js": "/melek-saadi/static/js/main.ac38c528.js",
     "static/js/787.3be1ba66.chunk.js": "/melek-saadi/static/js/787.3be1ba66.chunk.js",
     "static/media/palmas.png": "/melek-saadi/static/media/palmas.2d0e83c1a89466c42cfa.png",
     "static/media/palmas4.png": "/melek-saadi/static/media/palmas4.966a2fb60c3cbc6f01df.png",
@@ -30,11 +30,11 @@
     "static/media/kinder2.png": "/melek-saadi/static/media/kinder2.f90bcd636d48db12ee7f.png",
     "index.html": "/melek-saadi/index.html",
     "main.c8e9cae7.css.map": "/melek-saadi/static/css/main.c8e9cae7.css.map",
-    "main.f89a3c20.js.map": "/melek-saadi/static/js/main.f89a3c20.js.map",
+    "main.ac38c528.js.map": "/melek-saadi/static/js/main.ac38c528.js.map",
     "787.3be1ba66.chunk.js.map": "/melek-saadi/static/js/787.3be1ba66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8e9cae7.css",
-    "static/js/main.f89a3c20.js"
+    "static/js/main.ac38c528.js"
   ]
 }
