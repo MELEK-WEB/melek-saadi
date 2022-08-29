@@ -27,6 +27,8 @@ import palmas1 from './photos/palmas1.png'
 import palmas2 from './photos/palmas2.png'
 import palmas4 from './photos/palmas4.png'
 
+import remitafrika from './photos/remitafrika.png'
+
 
 
 const about ={
@@ -48,28 +50,44 @@ const projects =[
 {
     
     title: 'Findem',
-     description:
-      "a web-based solution that includes the manager's functionalities in order to achieve a good resource management.However, each manager will have access to manage his projects and employees. The main point building a decision system for the projects assignment considering the potential and experience of the team members.Thus, the app ensure that all projects accepted by the application are taken care of by the employees.",
+     description:  "a web-based solution that includes the manager's functionalities in order to achieve a good resource management.However, each manager will have access to manage his projects and employees. The main point building a decision system for the projects assignment considering the potential and experience of the team members.Thus, the app ensure that all projects accepted by the application are taken care of by the employees.",
     technologies:['react','spring','mysql'],
     img  :[findem5,findem4,findem,findem2,findem3,findem6],
+    github:'#',
+    liveDemo:'#',
   },
   {
       img  :[datenight1,datenight,datenight2,datenight3,datenight4,datenight5,datenight6],
       title :'Date Night',
       description :"2D game inspired by the Titanic movie, Jack and rose need to collaborate together in order to reach a date appointment. thus, they should clear the way for each other.",
-      technologies:['photoshop','unity','C#']
+      technologies:['photoshop','unity','C#'],
+    github:'#',
+    liveDemo:'#',
   },
   {
     img  :[kinder,kinder1,kinder2,kinder3,kinder4,kinder5,kinder6],
     title :'Collect Us',
     description :"2D/3D advertising game for Kinder's products. The player is found lost in a maze and should escape it. to solve the maze you need to collect special eggs located at the end of levels one and two. ",
-    technologies:['photoshop','unity','C#']
+    technologies:['photoshop','unity','C#'] ,
+    github:'#',
+    liveDemo:'#',
   },
   {
     img  :[palmas,palmas1,palmas2,palmas4],
     title :'Palmas',
     description :"Palmas Hotels & Resorts is a modern, upscale hospitality company that is passionate about ‘making moments’, recognising that small gestures make a big difference to our guests, our owners and our people. We do ordinary things in an extraordinary way – a philosophy that has defined our brand’s success from the very start.. ",
-    technologies:['HTML','CSS','JAVASCRIPT']
+    technologies:['HTML','CSS','JAVASCRIPT']  ,
+    github:'#',
+    liveDemo:'#',
+  },
+
+  {
+    img  :[remitafrika],
+    title :'Remitafrika',
+    description :"based on figma design, Remitafrika is a landingPage for desktop users with modern design features.",
+    technologies:['React','CSS','ES6']  ,
+    github:'https://github.com/MELEK-WEB/LandingPage/',
+    liveDemo:'https://melek-web.github.io/LandingPage/',
   },
 
   

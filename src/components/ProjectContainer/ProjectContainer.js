@@ -4,7 +4,7 @@ import React from 'react'
 import './ProjectContainer.css'
 
 
-function ProjectContainer ({Title,image,description,technologies})  {
+function ProjectContainer ({Title,image,description,technologies,github,liveDemo})  {
 
   
   const [currentImage,setCurentImage] = React.useState(0);
@@ -40,7 +40,7 @@ function ProjectContainer ({Title,image,description,technologies})  {
 
     
       <a
-        href='#'
+        href={github}
         aria-label='source code'
         className='link link--icon'
       >
@@ -50,7 +50,7 @@ function ProjectContainer ({Title,image,description,technologies})  {
 
      (
       <a
-        href='#'
+        href={liveDemo}
         aria-label='live preview'
         className='link link--icon'
       >
