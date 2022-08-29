@@ -28,6 +28,7 @@ import palmas2 from './photos/palmas2.png'
 import palmas4 from './photos/palmas4.png'
 
 import remitafrika from './photos/remitafrika.png'
+import ux from './photos/ux.png'
 
 
 
@@ -57,6 +58,14 @@ const projects =[
     liveDemo:'#',
   },
   {
+    img  :[remitafrika],
+    title :'Remitafrika',
+    description :"based on figma design, Remitafrika is a landingPage for desktop users with modern design features.",
+    technologies:['React','CSS','ES6']  ,
+    github:'https://github.com/MELEK-WEB/LandingPage/',
+    liveDemo:'https://melek-web.github.io/LandingPage/',
+  },
+  {
       img  :[datenight1,datenight,datenight2,datenight3,datenight4,datenight5,datenight6],
       title :'Date Night',
       description :"2D game inspired by the Titanic movie, Jack and rose need to collaborate together in order to reach a date appointment. thus, they should clear the way for each other.",
@@ -80,15 +89,15 @@ const projects =[
     github:'#',
     liveDemo:'#',
   },
-
   {
-    img  :[remitafrika],
-    title :'Remitafrika',
-    description :"based on figma design, Remitafrika is a landingPage for desktop users with modern design features.",
+    img  :[ux],
+    title :'UX/UI website',
+    description :"based on figma design, modern ux/ui portfolio for creatives web designers .",
     technologies:['React','CSS','ES6']  ,
-    github:'https://github.com/MELEK-WEB/LandingPage/',
-    liveDemo:'https://melek-web.github.io/LandingPage/',
+    github:'https://github.com/MELEK-WEB/ux_portfolio',
+    liveDemo:'https://melek-web.github.io/ux_portfolio/',
   },
+ 
 
   
 
