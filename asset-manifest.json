@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/melek-saadi/static/css/main.c8e9cae7.css",
-    "main.js": "/melek-saadi/static/js/main.ac38c528.js",
+    "main.css": "/melek-saadi/static/css/main.75bdda6a.css",
+    "main.js": "/melek-saadi/static/js/main.32dd3e45.js",
     "static/js/787.3be1ba66.chunk.js": "/melek-saadi/static/js/787.3be1ba66.chunk.js",
     "static/media/palmas.png": "/melek-saadi/static/media/palmas.2d0e83c1a89466c42cfa.png",
     "static/media/palmas4.png": "/melek-saadi/static/media/palmas4.966a2fb60c3cbc6f01df.png",
@@ -24,17 +24,19 @@
     "static/media/kinder4.png": "/melek-saadi/static/media/kinder4.84e5c9e1b34654f2282a.png",
     "static/media/findem3.png": "/melek-saadi/static/media/findem3.44c3c615f501d014e6e8.png",
     "static/media/kinder6.png": "/melek-saadi/static/media/kinder6.cf824e83b2a6d3c7c3d3.png",
+    "static/media/remitafrika.png": "/melek-saadi/static/media/remitafrika.7beddf4e8a999a2faa5c.png",
     "static/media/findem6.png": "/melek-saadi/static/media/findem6.9ff40df44281b0a5efd2.png",
     "static/media/findem.png": "/melek-saadi/static/media/findem.8fdef07604a0ac0f0d93.png",
+    "static/media/ux.png": "/melek-saadi/static/media/ux.1d3c46eeb166d3b93845.png",
     "static/media/kinder1.png": "/melek-saadi/static/media/kinder1.cbdfb4f54aa59cee3c44.png",
     "static/media/kinder2.png": "/melek-saadi/static/media/kinder2.f90bcd636d48db12ee7f.png",
     "index.html": "/melek-saadi/index.html",
-    "main.c8e9cae7.css.map": "/melek-saadi/static/css/main.c8e9cae7.css.map",
-    "main.ac38c528.js.map": "/melek-saadi/static/js/main.ac38c528.js.map",
+    "main.75bdda6a.css.map": "/melek-saadi/static/css/main.75bdda6a.css.map",
+    "main.32dd3e45.js.map": "/melek-saadi/static/js/main.32dd3e45.js.map",
     "787.3be1ba66.chunk.js.map": "/melek-saadi/static/js/787.3be1ba66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8e9cae7.css",
-    "static/js/main.ac38c528.js"
+    "static/css/main.75bdda6a.css",
+    "static/js/main.32dd3e45.js"
   ]
 }
