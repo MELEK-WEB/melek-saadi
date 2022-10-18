@@ -85,7 +85,7 @@ const projects = [
   {
     title: "Education Plateform Beta Version",
     description:
-      "During 24H hackthon Upside Education,we made a web plateform that helps learning to code easly without wasting time !",
+      "During 24H hackthon Upside Education,we made a web plateform that helps learners for an eazy amd comfortable coding experience",
     github: "https://github.com/MELEK-WEB/web-editor",
     liveDemo: "https://melek-web.github.io/web-editor/",
     technologies: ["React", "Spring"],

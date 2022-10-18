@@ -1,13 +1,16 @@
-import {  useState } from 'react'
+import {  useState,useContext } from 'react'
 import WbSunnyRoundedIcon from '@material-ui/icons/WbSunnyRounded'
 import MenuIcon from '@material-ui/icons/Menu'
 import CloseIcon from '@material-ui/icons/Close'
-//import { ThemeContext } from '../../contexts/theme'
+import { ThemeContext } from '../../contexts/theme'
 import { projects, skills, contact } from '../../portfolio'
+import Brightness2Icon from '@material-ui/icons/Brightness2'
+
 import './Navbar.css'
 
+
 const Navbar = () => {
- // const [{ themeName, toggleTheme }] = useContext(ThemeContext)
+ const [{ themeName, toggleTheme }] = useContext(ThemeContext)
   const [showNavList, setShowNavList] = useState(false)
 
   const toggleNavList = () => setShowNavList(!showNavList)
@@ -57,11 +60,11 @@ const Navbar = () => {
 
       <button
         type='button'
-        
+        onClick={toggleTheme}
         className='btn btn--icon nav__theme'
         aria-label='toggle theme'
       >
-        <WbSunnyRoundedIcon /> 
+        {themeName ==='dark' ? <WbSunnyRoundedIcon /> : <Brightness2Icon/> }
       </button>
 
       <button
