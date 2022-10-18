@@ -23,10 +23,8 @@ const Contact = () => {
               <a href={contact.Phone}>
                     <li  className='skills__list-item btn btn--plain'>
                     
-                    <PhoneIcon /> 
-                    <span>
-                    {contact.Phone}
-                    </span> 
+                    <PhoneIcon color='primary' /> 
+             
                </li>
               </a>
               <a href={contact.Facebook}>

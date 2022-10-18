@@ -41,6 +41,8 @@ function ProjectContainer ({Title,image,description,technologies,github,liveDemo
     
       <a
         href={github}
+        target={"_blank"}
+        rel="noreferrer"
         aria-label='source code'
         className='link link--icon'
       >
@@ -51,6 +53,8 @@ function ProjectContainer ({Title,image,description,technologies,github,liveDemo
      (
       <a
         href={liveDemo}
+        target={"_blank"}
+        rel="noreferrer"
         aria-label='live preview'
         className='link link--icon'
       >
