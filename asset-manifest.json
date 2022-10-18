@@ -1,12 +1,10 @@
 {
   "files": {
     "main.css": "/melek-saadi/static/css/main.75bdda6a.css",
-    "main.js": "/melek-saadi/static/js/main.32dd3e45.js",
+    "main.js": "/melek-saadi/static/js/main.bbd768ec.js",
     "static/js/787.3be1ba66.chunk.js": "/melek-saadi/static/js/787.3be1ba66.chunk.js",
     "static/media/palmas.png": "/melek-saadi/static/media/palmas.2d0e83c1a89466c42cfa.png",
-    "static/media/palmas4.png": "/melek-saadi/static/media/palmas4.966a2fb60c3cbc6f01df.png",
     "static/media/kinder3.png": "/melek-saadi/static/media/kinder3.964b08cb40c83ed02974.png",
-    "static/media/palmas2.png": "/melek-saadi/static/media/palmas2.b48ae6820d75a8c44bc6.png",
     "static/media/datenight3.png": "/melek-saadi/static/media/datenight3.d9c9e490cc8ff276b14a.png",
     "static/media/datenight6.png": "/melek-saadi/static/media/datenight6.6099c087e926bf9ab750.png",
     "static/media/datenight.png": "/melek-saadi/static/media/datenight.2dbba1ccd16f903dcfb1.png",
@@ -30,13 +28,14 @@
     "static/media/ux.png": "/melek-saadi/static/media/ux.1d3c46eeb166d3b93845.png",
     "static/media/kinder1.png": "/melek-saadi/static/media/kinder1.cbdfb4f54aa59cee3c44.png",
     "static/media/kinder2.png": "/melek-saadi/static/media/kinder2.f90bcd636d48db12ee7f.png",
+    "static/media/education.png": "/melek-saadi/static/media/education.2c1bd4b4bf339ab348ea.png",
     "index.html": "/melek-saadi/index.html",
     "main.75bdda6a.css.map": "/melek-saadi/static/css/main.75bdda6a.css.map",
-    "main.32dd3e45.js.map": "/melek-saadi/static/js/main.32dd3e45.js.map",
+    "main.bbd768ec.js.map": "/melek-saadi/static/js/main.bbd768ec.js.map",
     "787.3be1ba66.chunk.js.map": "/melek-saadi/static/js/787.3be1ba66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75bdda6a.css",
-    "static/js/main.32dd3e45.js"
+    "static/js/main.bbd768ec.js"
   ]
 }
