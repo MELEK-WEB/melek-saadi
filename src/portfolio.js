@@ -32,7 +32,7 @@ import ux from "./photos/ux.png";
 const about = {
   photo: melekphoto,
   name: "Melek Saadi",
-  role: "Full stack developer",
+  role: ["a Full stack developer.",2000,"a React developer.",2000,"a Spring/Java developer.",2000],
   description:
     "An engineer student at Higher Institute of Arts and Multimedia Manouba, Living in Tunisia and highly interested in web development and graphic design.",
   resume: "#",
@@ -53,8 +53,7 @@ const projects = [
       "a web-based solution that includes the manager's functionalities in order to achieve a good resource management.However, each manager will have access to manage his projects and employees. The main point building a decision system for the projects assignment considering the potential and experience of the team members.Thus, the app ensure that all projects accepted by the application are taken care of by the employees.",
     technologies: ["react", "spring", "mysql"],
     img: [findem5, findem4, findem, findem2, findem3, findem6],
-    github: "#",
-    liveDemo: "#",
+    
   },
   {
     img: [remitafrika],
@@ -79,8 +78,8 @@ const projects = [
     description:
       "2D game inspired by the Titanic movie, Jack and rose need to collaborate together in order to reach a date appointment. thus, they should clear the way for each other.",
     technologies: ["photoshop", "unity", "C#"],
-    github: "#",
-    liveDemo: "#",
+  
+
   },
   {
     title: "Education Plateform Beta Version",
@@ -97,8 +96,7 @@ const projects = [
     description:
       "2D/3D advertising game for Kinder's products. The player is found lost in a maze and should escape it. to solve the maze you need to collect special eggs located at the end of levels one and two. ",
     technologies: ["photoshop", "unity", "C#"],
-    github: "#",
-    liveDemo: "#",
+    
   },
   {
     img: [palmas, palmas1],
@@ -106,8 +104,7 @@ const projects = [
     description:
       "Palmas Hotels & Resorts is a modern, upscale hospitality company that is passionate about ‘making moments’, recognising that small gestures make a big difference to our guests, our owners and our people. We do ordinary things in an extraordinary way – a philosophy that has defined our brand’s success from the very start.. ",
     technologies: ["HTML", "CSS", "JAVASCRIPT"],
-    github: "#",
-    liveDemo: "#",
+    
   },
   {
     img: [ux],

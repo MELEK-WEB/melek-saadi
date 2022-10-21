@@ -1,6 +1,7 @@
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import React from "react";
+import Typical from "react-typical";
 import { about } from "../../portfolio";
 import "./About.css";
 export default function About() {
@@ -12,11 +13,11 @@ export default function About() {
       <br />
       {name && (
         <h1>
-          Hi, I am <span className="about__name">{name}.</span>
+          Hi, I am <span className="about__name"> {name}.</span>
         </h1>
       )}
 
-      {role && <h2 className="about__role">A {role}.</h2>}
+      {role && <h2 className="about__role"> <Typical steps={role} wrapper="h2" /></h2>}
       <p className="about__desc">{description && description}</p>
 
       <div className="about__contact center">

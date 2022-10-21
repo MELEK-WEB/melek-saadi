@@ -5,7 +5,7 @@
     margin: 0 auto;
     justify-content: space-between;
   }
-  
+
   @media (max-width: 600px) {
     .header {
       height: 6em;
