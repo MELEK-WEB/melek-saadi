@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/melek-saadi/static/css/main.75bdda6a.css",
-    "main.js": "/melek-saadi/static/js/main.9d2e0e1b.js",
+    "main.js": "/melek-saadi/static/js/main.100de7b1.js",
     "static/js/787.3be1ba66.chunk.js": "/melek-saadi/static/js/787.3be1ba66.chunk.js",
     "static/media/palmas.png": "/melek-saadi/static/media/palmas.2d0e83c1a89466c42cfa.png",
     "static/media/kinder3.png": "/melek-saadi/static/media/kinder3.964b08cb40c83ed02974.png",
@@ -12,7 +12,6 @@
     "static/media/findem5.png": "/melek-saadi/static/media/findem5.76cf7450e04087d7176d.png",
     "static/media/kinder5.png": "/melek-saadi/static/media/kinder5.a51c3a5790111bba365a.png",
     "static/media/palmas1.png": "/melek-saadi/static/media/palmas1.b74af18161ad9b94bf92.png",
-    "static/media/SaadiMelek.png": "/melek-saadi/static/media/SaadiMelek.b0ad7ef5002c7423f3fc.png",
     "static/media/datenight4.png": "/melek-saadi/static/media/datenight4.c7e1c3ff960aee751128.png",
     "static/media/datenight2.png": "/melek-saadi/static/media/datenight2.6bcce45c79d97751a39c.png",
     "static/media/datenight1.png": "/melek-saadi/static/media/datenight1.2f96295ec6133a5a5977.png",
@@ -27,15 +26,16 @@
     "static/media/findem.png": "/melek-saadi/static/media/findem.8fdef07604a0ac0f0d93.png",
     "static/media/ux.png": "/melek-saadi/static/media/ux.1d3c46eeb166d3b93845.png",
     "static/media/kinder1.png": "/melek-saadi/static/media/kinder1.cbdfb4f54aa59cee3c44.png",
+    "static/media/Melek_S.png": "/melek-saadi/static/media/Melek_S.3569317cda876db7a55e.png",
     "static/media/kinder2.png": "/melek-saadi/static/media/kinder2.f90bcd636d48db12ee7f.png",
     "static/media/education.png": "/melek-saadi/static/media/education.2c1bd4b4bf339ab348ea.png",
     "index.html": "/melek-saadi/index.html",
     "main.75bdda6a.css.map": "/melek-saadi/static/css/main.75bdda6a.css.map",
-    "main.9d2e0e1b.js.map": "/melek-saadi/static/js/main.9d2e0e1b.js.map",
+    "main.100de7b1.js.map": "/melek-saadi/static/js/main.100de7b1.js.map",
     "787.3be1ba66.chunk.js.map": "/melek-saadi/static/js/787.3be1ba66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75bdda6a.css",
-    "static/js/main.9d2e0e1b.js"
+    "static/js/main.100de7b1.js"
   ]
 }
