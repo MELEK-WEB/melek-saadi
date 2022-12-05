@@ -8,8 +8,9 @@ export default function About() {
   const { photo, name, role, description, resume, social } = about;
 
   return (
-    <div className="about center">
-      {photo && <img height="200px" alt="Avatar placeholder" src={photo} />}
+    <>
+    <div className="about center" style={{marginTop:"0"}}>
+      {photo && <img height="320px" alt="Avatar placeholder" src={photo} />}
       <br />
       {name && (
         <h1>
@@ -63,5 +64,6 @@ export default function About() {
         )}
       </div>
     </div>
+    </>
   );
 }

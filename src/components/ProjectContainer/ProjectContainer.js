@@ -39,7 +39,7 @@ function ProjectContainer({
         ))}
       </ul>
 
-      {github && (
+      {github !=="" ?(
         <a
           href={github}
           target={"_blank"}
@@ -49,9 +49,9 @@ function ProjectContainer({
         >
           <GitHubIcon />
         </a>
-      )}
+      ): null}
 
-   {   liveDemo && <a
+   {   liveDemo !==""? <a
         href={liveDemo}
         target={"_blank"}
         rel="noreferrer"
@@ -59,7 +59,7 @@ function ProjectContainer({
         className="link link--icon"
       >
         <LaunchIcon />
-      </a>}
+      </a>: null}
     </div>
   );
 }
