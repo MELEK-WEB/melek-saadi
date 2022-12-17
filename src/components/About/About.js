@@ -3,9 +3,14 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import React from "react";
 import Typical from "react-typical";
 import { about } from "../../portfolio";
+import ModalCV from "../ModalCV";
 import "./About.css";
+
+
 export default function About() {
+
   const { photo, name, role, description, resume, social } = about;
+
 
   return (
     <>
@@ -22,16 +27,13 @@ export default function About() {
       <p className="about__desc">{description && description}</p>
 
       <div className="about__contact center">
+      
         {resume && (
-          <a
-            href="https://drive.google.com/drive/folders/14mgM4j6nkbeT4-VpwUCzKU6-V8WxI188?usp=sharing"
-            target={"_blank"}
-            rel="noreferrer"
-          >
-            <span type="button" className="btn btn--outline">
-              Resume
-            </span>
-          </a>
+         
+           
+             <ModalCV/>
+            
+   
         )}
 
         {social && (
