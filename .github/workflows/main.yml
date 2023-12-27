@@ -20,7 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        npm install --force
+        npm install --legacy-peer-deps
         npm update
 
     - name: Debug project structure
