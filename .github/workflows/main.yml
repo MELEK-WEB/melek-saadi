@@ -19,7 +19,15 @@ jobs:
         node-version: '16'
 
     - name: Install dependencies
-      run: npm install --force
+      run: |
+        npm install --force
+        npm update
+
+    - name: Debug project structure
+      run: ls -R
+
+    - name: Debug npm packages
+      run: npm list
 
     - name: Build
       run: npm run build
